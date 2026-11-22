@@ -89,7 +89,7 @@ flowchart TD
 - [Anthropic Academy](https://anthropic.skilljar.com) — AI Fluency and Claude courses with free certificates.
 - [OpenAI Academy](https://academy.openai.com) — workshops and guides for everyday and professional use.
 - [Google — Introduction to Generative AI](https://www.cloudskillsboost.google/course_templates/536)
-- [Microsoft — AI Skills Navigator](https://learn.microsoft.com/en-us/training/ai-skills/)
+- [Microsoft Learn — AI training](https://learn.microsoft.com/en-us/training/)
 - [IBM SkillsBuild — AI Fundamentals](https://skillsbuild.org)
 
 ---
@@ -205,7 +205,6 @@ flowchart TD
 - [MONAI](https://monai.io) — open-source medical imaging AI.
 - [AlphaFold Server](https://alphafoldserver.com) · [ESM](https://github.com/evolutionaryscale/esm) · [Evo 2](https://github.com/ArcInstitute/evo2)
 - [WHO — Ethics and governance of AI for health](https://www.who.int/publications/i/item/9789240029200)
-- [FDA — AI-enabled medical devices list](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-enabled-medical-devices)
 - [Awesome Biotechnology](https://github.com/Subhadeep998/Awesome-Biotechnology) — companion list for biology.
 
 ---
